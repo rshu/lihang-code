@@ -70,6 +70,6 @@ https://github.com/hktxt/Learn-Statistical-Learning-Method
 代码整理和修改：机器学习初学者（公众号） ![gongzhong](images/gongzhong.jpg)
 
 
-知识星球：黄博的机器学习圈子![xingqiu](images/zhishixingqiu1.jpg)
+
 
 [知乎](https://www.zhihu.com/people/fengdu78)
